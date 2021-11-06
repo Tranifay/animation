@@ -31,5 +31,16 @@
     "لینک تصویر اول": "https://rubika-static.namava.ir/Content/Upload/Images/f16d318b-e61b-427c-aff4-bf9e066b97e0.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442",
     "لینک تصویر دوم": "https://rubika-static.namava.ir/Content/Upload/Images/7e2dc577-6b46-4b5e-955f-bf4367377458.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442",
     "لینک تصویر سوم": "https://rubika-static.namava.ir/Content/Upload/Images/b7ab7a79-3c7f-4f24-b271-a12cd8ad18fa.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442"
+  },
+  {
+    "نام انیمیشن اول": "میچل ها",
+    "نام انیمیشن دوم": "هتل ترانسیلوانیا 3",
+    "نام انیمیشن سوم": "تام و جری",
+    "لینک انیمیشن اول": "https://rubika-play.namava.ir/?m\u003d92613\u0026p\u003dmobile",
+    "لینک انیمیشن دوم": "https://rubika-play.namava.ir/?m\u003d27383\u0026p\u003dmobile",
+    "لینک انیمیشن سوم": "https://rubika-play.namava.ir/?m\u003d84408\u0026p\u003dmobile",
+    "لینک تصویر اول": "https://rubika-static.namava.ir/Content/Upload/Images/a6c21dec-2175-488d-8d6e-29f005d37e46.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442",
+    "لینک تصویر دوم": "https://rubika-static.namava.ir/Content/Upload/Images/44dfd1cb-2b03-4455-a8ec-a8ac668e828f.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442",
+    "لینک تصویر سوم": "https://rubika-static.namava.ir/Content/Upload/Images/5cbb5f9b-471e-478c-9b05-b3d2556b2486.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442"
   }
 ]
