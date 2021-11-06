@@ -20,5 +20,16 @@
     "لینک تصویر اول": "https://rubika-static.namava.ir/Content/Upload/Images/5405e49c-289a-42bd-92d3-4097debd757b.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442",
     "لینک تصویر دوم": "https://rubika-static.namava.ir/Content/Upload/Images/0a8eac3f-5110-4901-80ad-4d4d1b156a4b.JPG?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442",
     "لینک تصویر سوم": "https://rubika-static.namava.ir/Content/Upload/Images/b7efb685-f9b1-43fa-96df-21182241cf45.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442"
+  },
+  {
+    "نام انیمیشن اول": "من نفرت انگیز 3",
+    "نام انیمیشن دوم": "مربی اژدها 3",
+    "نام انیمیشن سوم": "ویوو",
+    "لینک انیمیشن اول": "https://rubika-play.namava.ir/?m\u003d10010\u0026p\u003dmobile",
+    "لینک انیمیشن دوم": "https://rubika-play.namava.ir/?m\u003d22134\u0026p\u003dmobile",
+    "لینک انیمیشن سوم": "https://rubika-play.namava.ir/?m\u003d108072\u0026p\u003dmobile",
+    "لینک تصویر اول": "https://rubika-static.namava.ir/Content/Upload/Images/f16d318b-e61b-427c-aff4-bf9e066b97e0.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442",
+    "لینک تصویر دوم": "https://rubika-static.namava.ir/Content/Upload/Images/7e2dc577-6b46-4b5e-955f-bf4367377458.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442",
+    "لینک تصویر سوم": "https://rubika-static.namava.ir/Content/Upload/Images/b7ab7a79-3c7f-4f24-b271-a12cd8ad18fa.jpg?anchor\u003dmiddlecenter\u0026crop\u003dauto\u0026scale\u003dboth\u0026w\u003d300\u0026h\u003d442"
   }
 ]
